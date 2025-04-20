@@ -1,0 +1,105 @@
+Guidelines For Preparation of S.E. Project Report
+(Acknowledgement: Formatting guidelines of University of Mumbai are referred)
+
+REPORT STRUCTURE:
+================
+1. Title & Cover Page <Refer Specimen A>
+2. Internal Approval or Certificate <Refer Specimen B>
+3. Approval or Certification <Refer Specimen C>
+4. Declaration <Refer Specimen D>
+5. Acknowledgements
+6. Abstract or Executive Summary
+7. Table of Contents
+8. List of Figures
+9. List of Tables
+10. List of Symbols and Abbreviations (if applicable)
+11. Introduction
+12. Body of the Project & the Chapters (Problem statement, Literature survey, Implementation methodology etc. add chapters)
+13. Experiments and Results
+14. Conclusion and Recommendations
+15. Future Scope
+16. References
+17. Appendix: Paper publications (Paper + certificate), awards (If any), Github link
+
+FORMATTING GUIDELINES:
+====================
+- First ten pages (preliminary pages): Roman numerals (i, ii, iii, iv...)
+- From Introduction onwards: Arabic numerals (1, 2, 3...)
+- Font: Times New Romans, size 12 throughout
+- Text alignment: Justified
+- Line spacing: 1.5 (except captions which should be single-spaced)
+
+SECTION-WISE GUIDELINES:
+======================
+Title Page:
+----------
+- All letters must be capitalized
+- No page number
+- Include: 
+  * Project title
+  * Course name
+  * Student's name and roll number
+  * Guide's name and designation
+  * Organization's logo and address
+
+Declaration and Approval:
+-----------------------
+- Declaration: Student's statement of sincere project completion with signature
+- Approval: Confirmation from head of department, guide, and external examiner with signatures
+
+Acknowledgement:
+--------------
+Express gratitude towards people who helped in project completion
+
+Abstract:
+--------
+- Length: 250-350 words
+- Include:
+  * Main objective and aim
+  * Background information
+  * Processes and methods
+  * Brief conclusion and scope
+  * Methodologies implemented
+
+Table of Contents, List of Figures and Tables:
+-------------------------------------------
+- Include titles of first, second, and third level headers
+- Number figures and tables by chapter and page number
+- Page numbers not required for symbols and abbreviations
+
+Main Body Structure:
+------------------
+Chapter 1: Introduction
+- Brief background
+- Problem-solving methodology
+- Results outline
+- Future scope
+- Minimal illustrations
+
+Chapter 2: Literature Review
+- Current vs previous work comparison
+- Current implementations
+- Focus on foreknowledge work
+
+Chapters 3-4/5: In-depth Project Information
+- Theoretical information
+- Circuit design
+- Simulation implementation
+- Software implementation
+- Statistical analysis
+- Results
+- Include visual representations (diagrams, flowcharts, graphs, etc.)
+
+Conclusion and Recommendations:
+----------------------------
+- Summary of all chapters
+- Project achievements
+- Recommendations for overcoming project constraints
+
+References and Appendices:
+-----------------------
+- Follow standard citation guidelines
+- Plagiarism should be less than 20%
+- Appendices: Times New Roman, font size 10
+
+Note: All visual content (diagrams, charts, graphs) should have good resolution and clarity. 
